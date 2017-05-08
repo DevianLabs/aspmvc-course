@@ -12,7 +12,8 @@ Se centra en las actividades de codificación que mejoran el rendimiento y la e
   - Programación orientada a objetos
   - Desarrollo de front-end
   - Diseño orientado a objetos y patrones de diseño
-  - Conocimiento básico sobre ORM’s Conocimiento de SQL
+  - Conocimiento básico sobre ORM’s
+  - Conocimiento de SQL
 
 ## A quién va dirigido
 
@@ -31,7 +32,7 @@ Este curso está pensado para ser tomado por desarrolladores con 3 a 5 años d
 
 El objetivo de este módulo es otorgar un panorama de las tecnologías que se pueden usar para albergar una aplicación web completa, comparando Web forms con MVC.
 
-* Resumen de tecnologías web de Microsoft
+* Resumen de tecnologías web de Microsoft
 * Resumen de ASP .NET 4.5
 * Introducción a ASP .NET MVC 4
 
@@ -93,7 +94,9 @@ El objetivo de este módulo es aprender a aumentar la resistencia y la calidad d
 
 ### Trabajo con front-end – Estilos
 
-El objetivo de este módulo es explorar cómo imponer una apariencia consistente a una aplicación MVC y compartir los componentes comunes, como encabezados y pies de página, entre todas las vistas. Además de describir los estilos CSS y puntos de vista de la plantilla, el módulo discutirá cómo migrar una apariencia creada por un diseñador de páginas web en una aplicación MVC. También se introducirán las técnicas para la adaptación de la visualización de un sitio para pantallas pequeñas y dispositivos móviles.
+El objetivo de este módulo es explorar cómo imponer una apariencia consistente a una aplicación MVC y compartir los componentes comunes, como encabezados y pies de página, entre todas las vistas. Además de describir los estilos CSS y puntos de vista de la plantilla, el módulo discutirá cómo migrar una apariencia creada por un diseñador de páginas web en una aplicación MVC.
+
+También se introducirán las técnicas para la adaptación de la visualización de un sitio para pantallas pequeñas y dispositivos móviles.
 
 * Uso de plantillas
 * Aplicación de estilos
@@ -132,7 +135,7 @@ El objetivo del módulo es presentar el concepto de una API web y describir có
 * Trabajo con REST y JSON
 * Ruteo
 * OData
-* Serialización y modelos
+* Serialización y modelos
 * Implementación de API’s
 
 ## Módulo 11
