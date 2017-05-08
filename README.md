@@ -8,10 +8,10 @@ Se centra en las actividades de codificación que mejoran el rendimiento y la e
 
 * Conocimientos sólidos en Programación Orientada a Objetos (C# o Java).
 * Conocer el funcionamiento del desarrollo web.
-* Deseable tener conocimientos en:
+* Deseable tener conocimientos en:
   - Programación orientada a objetos
   - Desarrollo de front-end
-  - Diseño orientado a objetos y patrones de diseño.
+  - Diseño orientado a objetos y patrones de diseño
   - Conocimiento básico sobre ORM’s Conocimiento de SQL
 
 ## A quién va dirigido
@@ -31,8 +31,8 @@ Este curso está pensado para ser tomado por desarrolladores con 3 a 5 años d
 
 El objetivo de este módulo es otorgar un panorama de las tecnologías que se pueden usar para albergar una aplicación web completa, comparando Web forms con MVC.
 
-* Resumen de tecnologías web de Microsoft
-* Resumen de ASP .NET 4.5
+* Resumen de tecnologías web de Microsoft
+* Resumen de ASP .NET 4.5
 * Introducción a ASP .NET MVC 4
 
 ## Módulo 2
@@ -64,7 +64,8 @@ También se describe cómo implementar una conexión a una base de datos o alm
 En este módulo se explica cómo agregar controladores de aplicaciones MVC para implementar las acciones que respondan a la entrada del usuario y otros eventos.
 
 * Acciones
-* Controladores  Filtros
+* Controladores
+* Filtros
 
 ## Módulo 5
 
@@ -73,7 +74,8 @@ En este módulo se explica cómo agregar controladores de aplicaciones MVC par
 El objetivo de este módulo es describir el papel de vistas en una aplicación web MVC, definirlas y codificarlas utilizando Partial Views y Razor Helpers
 
 * Razor
-* HTML Helpers Reutilización de vistas
+* HTML Helpers
+* Reutilización de vistas
 
 ## Módulo 6
 
@@ -114,7 +116,7 @@ Por otro lado, parte del objetivo de este módulo es describir cómo las actua
 
 ### Seguridad y autenticación
 
-El objetivo de este módulo es asegurar una buena seguridad en términos de autenticación y autorización para el acceso. Además, se realiza una revisión para defensas contra técnicas de ataque más comunes como cross-site scripting.
+El objetivo de este módulo es asegurar una buena seguridad en términos de autenticación y autorización para el acceso. Además, se realiza una revisión para defensas contra técnicas de ataque más comunes como cross-site scripting.
 
 * ASP .NET Identity
 * OAuth
@@ -127,9 +129,11 @@ El objetivo de este módulo es asegurar una buena seguridad en términos de au
 
 El objetivo del módulo es presentar el concepto de una API web y describir cómo hacer que la funcionalidad básica de una aplicación sea lo más amplia posible para la integración en otras aplicaciones web y dispositivos móviles.
 
-* Trabajo con REST y JSON  Ruteo
-* OData
-* Serialización y modelos Implementación de API’s
+* Trabajo con REST y JSON
+* Ruteo
+* OData
+* Serialización y modelos
+* Implementación de API’s
 
 ## Módulo 11
 
@@ -153,8 +157,8 @@ Este módulo explica como estructurar una aplicación web dentro de una solucio�
 ## Módulo 13
 ### Implementación de aplicaciones
 
-En este módulo se explica como instalar una aplicación de MVC completa en un servidor web. El módulo comienza con la descripción de las pruebas, puesta en escena, y la producción de las implementaciones y los entornos de servidores web necesarios para cada uno.
+En este módulo se explica como instalar una aplicación de MVC completa en un servidor web. El módulo comienza con la descripción de las pruebas, puesta en escena, y la producción de las implementaciones y los entornos de servidores web necesarios para cada uno.
 
-* Preparación del servidor con Windows server
-* Configuración de IIS (app polls, virtual directory, etc.)
+* Preparación del servidor con Windows server
+* Configuración de IIS (app polls, virtual directory, etc.).
 * Revisión y configuración de instancias de base de datos en servidor
