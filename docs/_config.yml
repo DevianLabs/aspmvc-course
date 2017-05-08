@@ -1,0 +1,20 @@
+url: http://devianlabs.github.io/aspmvc-course
+baseurl: ""
+site_title: Desarrollo de aplicaciones web con ASP.NET MVC
+
+exclude:
+  - _site
+  - _drafts/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouges
+
+collections:
+  content:
+    output: true
+    permalink: /:path/
+    title: Content
