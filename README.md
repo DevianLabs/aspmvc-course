@@ -24,13 +24,13 @@ Este curso está pensado para ser tomado por desarrolladores con 3 a 5 años d
 * Horas/sesión: 4 horas
 * Sesiones: 10 sesiones
 
-# Contenido
+## Contenido
 
-## Slides
+### Slides
 
 Las presentaciones del curso las podrás encontrar [aquí](https://devianlabs.github.io/aspmvc-course/slides). También puedes visualizarlas con el [explorador de github](https://github.com/DevianLabs/aspmvc-course/tree/master/docs/slides/lessons).
 
-## Módulos
+### Módulos
 
 Cada módulo se encuentra organizado por carpetas dentro de [mods](https://github.com/DevianLabs/aspmvc-course/tree/master/mods). En cada una de las carpetas encontrarás un README que contiene la descripción de cada módulo.
 
@@ -60,10 +60,10 @@ Cada módulo se encuentra organizado por carpetas dentro de [mods](https://githu
 
 #### Módulo 13 - [Implementación de aplicaciones](https://github.com/DevianLabs/aspmvc-course/tree/master/mods/mod12)
 
-## Wiki
+### Wiki
 
 En la [wiki](https://github.com/DevianLabs/aspmvc-course/wiki) de este repositorio podrás encontrar referencias que te podrán ayudar con el trabajo diario.
 
-# Héroes sin capa
+## Héroes sin capa
 
 Siéntete libre de reportar errores, compartir ideas y sugerencias en la sección de [issues](https://github.com/DevianLabs/aspmvc-course/issues). También se aceptan [pull request](https://github.com/DevianLabs/aspmvc-course/pulls) :)
