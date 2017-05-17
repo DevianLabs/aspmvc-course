@@ -33,9 +33,7 @@ En términos generales, una aplicación se compone de:
   <img class="no-border" data-src="../assets/images/slides/layered-arch.png"/>
 </div>
 
-
 -==========-
-
 
 ## Opciones de acceso a datos
 
