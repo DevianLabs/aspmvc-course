@@ -1,4 +1,5 @@
-# Módulo 2. Diseño de las aplicaciones web
+# Módulo 2
+## Diseño de las aplicaciones web
 
 -==========-
 
@@ -106,4 +107,3 @@ Las vistas son representaciones de los modelos de cara al usuario. Se deben cons
 * Vistas Master o Layout
 
 En ASP.NET MVC es posible utilizar diferentes tipos de motores de vistas. Ejemplo: Web forms, razor.
-

@@ -32,3 +32,11 @@ Este curso está pensado para ser tomado por desarrolladores con 3 a 5 años d
 * Total de horas: 40 horas
 * Horas/sesión: 4 horas
 * Sesiones: 10 sesiones
+
+-==========-
+
+## Instructor
+
+* Miguel Salazar @ Devian Labs
+
+* miguel@devianlabs.com
