@@ -40,12 +40,6 @@ Los controladores son métodos de acción que el cliente puede "invocar" en base
 
 -==========-
 
-## Tipos de filtros en .NET
-
-
-
--==========-
-
 ## Aplicaciones en tiempo real
 
 Para el desarrollo de aplicaciones en tiempo real, existen diversos enfoques:
@@ -70,8 +64,3 @@ En .NET existen diferentes tipos de implementaciones para el uso de web sockets:
 * Conexión persistente de cliente y servidor vía HTTP
 * Facil construcción de conexión multi-usuario
 * Transporte con auto-negociación
-
-
-
-
-
