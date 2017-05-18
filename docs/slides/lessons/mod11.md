@@ -12,7 +12,7 @@ El objetivo de este módulo es describir cómo construir componentes que capture
 ## Temas a tratar
 
 * Filtros
-* ASP.NET Identity
+* ASP.NET Identitiy
 * Web Sockets
 
 -==========-
